@@ -1,6 +1,6 @@
 const express = require("express");
 const app = express();
-const PORT = 5000;
+const PORT = 8000;
 const { LogReqRes } = require("./middlewere/index");
 const userRouter = require("./routes/user");
 const connectMongoDb = require("./connection");

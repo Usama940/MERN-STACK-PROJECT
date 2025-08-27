@@ -1,9 +1,9 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "learning node js with express and mongodb",
   "license": "ISC",
-  "author": "",
+  "author": "Usama Aslam",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
